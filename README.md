@@ -25,6 +25,9 @@ composer require francoischaumont/log
 ## Testing
 Under the folder named *tests* you will find a test script ready to use and to experiment with. Works in web browser or CLI.
 
+## Usage
+Refer to [Monolog](https://github.com/Seldaek/monolog) for a complete documentation on their package.
+
 ## Built with
 * Visual Studio Code
 
