@@ -1,0 +1,20 @@
+{
+    "name": "francoischaumont/log",
+    "description": "Write logs using Monolog library",
+    "authors": [
+        {
+            "name": "Francois Chaumont",
+            "email": "funcois@outlook.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "monolog/monolog": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "FC\\Logger\\": "src/"
+        }
+    }
+}
+
