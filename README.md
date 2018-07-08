@@ -1,4 +1,11 @@
 # LOG - write logs to file
+
+![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/log.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FrancoisChaumont/log/issues)
+[![GitHub issues](https://img.shields.io/github/issues/FrancoisChaumont/log.svg)](https://github.com/FrancoisChaumont/log/issues)
+[![GitHub stars](https://img.shields.io/github/stars/FrancoisChaumont/log.svg)](https://github.com/FrancoisChaumont/log/stargazers)
+![Github All Releases](https://img.shields.io/github/downloads/FrancoisChaumont/log/total.svg)
+
 Simple PHP package to write logs using the Monolog library.
 
 ## Getting started
